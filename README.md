@@ -1,5 +1,4 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=500&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+REF4IK!;Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Python+%26+Django+%D1%8D%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82" alt="Текстовая анимация" />
+ 
 </h1>
 
 <p align="center">
@@ -16,11 +15,11 @@
 ### 📊 Статистика:
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=REF4IK&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
   
   ![Статистика](https://github-readme-stats.vercel.app/api?username=REF4IK&show_icons=true&theme=radical)
   
-  ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=REF4IK&layout=compact&theme=dark)
+  
 </div>
 
 ---

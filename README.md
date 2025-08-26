@@ -29,8 +29,8 @@
 ---
 
 ### 🚀 Мои проекты:
-1. [Проект 1](https://github.com/REF4IK/Winlator-REF4IK) - Winlator modifications 
-2. [Проект 2](https://github.com/REF4IK/Wiinlator-Ref4ik-)
+1. [Проект 1](https://github.com/REF4IK/Wiinlator-Ref4ik-) - Winlator modifications 
+
 
 ---
 

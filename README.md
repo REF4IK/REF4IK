@@ -1,4 +1,7 @@
 <h1 align="center">
+
+  <img src="https://github.com/REF4IK.png" width="180" height="180" style="border-radius: 50%; border: 5px solid #555;" alt="REF4IK"/>
+  
   Привет, я REF4IK 👋
 </h1>
 

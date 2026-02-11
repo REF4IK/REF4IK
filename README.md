@@ -9,7 +9,7 @@
   <a href="https://t.me/winlatorruu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/REF4IK/winlator-ref4ik-">
+  <a href="https://github.com/REF4IK">
     <img src="https://komarev.com/ghpvc/?username=REF4IK&color=blue&style=flat-square" alt="Profile Views" />
   </a>
 </p>
@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Мои проекты:
-1. [Проект 1](https://github.com/REF4IK/Wiinlator-Ref4ik-) - Winlator modifications 
+1. [Проект 1](https://github.com/REF4IK/winlator-ref4ik-) - Winlator modifications 
 
 
 ---
